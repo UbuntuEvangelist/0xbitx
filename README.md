@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0xbit</h1>
-<h3 align="center">darkweb hacker</h3>
+<h3 align="center">guy on the chair</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xbitx&label=Profile%20views&color=0e75b6&style=flat" alt="0xbitx" /> </p>
 
