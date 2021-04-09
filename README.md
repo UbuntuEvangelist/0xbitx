@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 🅾🆇🅱🅸🆃</h1>
-<h3 align="center">guy on the chair</h3>
+<h3 align="center">🄶🅄🅈 🄾🄽 🅃🄷🄴 🄲🄷🄰🄸🅁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xbitx&label=Profile%20views&color=0e75b6&style=flat" alt="0xbitx" /> </p>
 
@@ -26,6 +26,8 @@
 - 📄 Know about my experiences [unknown](unknown)
 
 - ⚡ Fun fact **i think im handsome**
+
+- 🙏 YΛΉΛЩΛΉ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
