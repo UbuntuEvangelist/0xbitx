@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xbit1" target="blank"><img src="https://img.shields.io/twitter/follow/0xbit1?logo=twitter&style=for-the-badge" alt="0xbit1" /></a> </p>
 
-- 🔭 I’m currently working on **cell tower exploitation**
+- 🔭 I’m currently working on **gsm exploitation**
 
 - 🌱 I’m currently learning **protocol exploitation**
 
