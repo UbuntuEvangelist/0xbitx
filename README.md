@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **0xbit25125@gmail.com**
 
-- 📄 Know about my experiences [unknown](unknown)
+- 📄 Know about my experiences [10 years linux experience](unknown)
 
 - ⚡ Fun fact **i think im handsome**
 
