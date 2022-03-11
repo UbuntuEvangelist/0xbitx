@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm 🅾🆇🅱🅸🆃</h1>
-<h3 align="center">🄶🅄🅈 🄾🄽 🅃🄷🄴 🄲🄷🄰🄸🅁</h3>
+Hi there
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xbitx&label=Profile%20views&color=0e75b6&style=flat" alt="0xbitx" /> </p>
 
@@ -7,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/0xbit1" target="blank"><img src="https://img.shields.io/twitter/follow/0xbit1?logo=twitter&style=for-the-badge" alt="0xbit1" /></a> </p>
 
-- 🔭 I’m currently working on **gsm exploitation**
+- 🔭 I’m currently working on **win11 exploit**
 
-- 🌱 I’m currently learning **protocol exploitation**
+- 🌱 I’m currently learning **iot exploitation**
 
-- 👯 I’m looking to collaborate on **imsi catcher**
+- 👯 I’m looking to collaborate on **my friends**
 
-- 🤝 I’m looking for help with **yahawah**
+- 🤝 I’m looking for help with **someone**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 📝 I regularly write articles on [darkroom-forum](darkroom-forum)
+- 📝 I regularly write articles on [forum](darkroom-forum)
 
 - 💬 Ask me about **real name of GOD**
 
@@ -27,7 +26,7 @@
 
 - ⚡ Fun fact **i think im handsome**
 
-- 🙏 YΛΉΛЩΛΉ
+- 🙏 YHWH
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
