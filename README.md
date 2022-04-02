@@ -1,43 +1,81 @@
-Hi there
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey%2C+nice+to+see+you!;I'm+0xbit+)](http://in.milind.live)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xbitx&label=Profile%20views&color=0e75b6&style=flat" alt="0xbitx" /> </p>
+- 🔭 I'm currently working on [Dedsec hacking tool and Group project]
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: WALA LANG
+- 🙏 YHWH
+
+### <img src="https://www.transparentpng.com/thumb/anonymous-mask/guy-fawkes-mask-pictures-10.png" width="60px"> Pentesting Platforms
+| **CTF Platforms** | ![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=) ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
+:--- | :---
+| **Bug Bounty** | ![Bugcrowd](https://img.shields.io/static/v1?style=for-the-badge&message=Bugcrowd&color=F26822&logo=Bugcrowd&logoColor=FFFFFF&label=) ![HackerOne](https://img.shields.io/static/v1?style=for-the-badge&message=HackerOne&color=494649&logo=HackerOne&logoColor=FFFFFF&label=) |
+
+### :octocat: Open Source
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/0xbitx) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/0xbitx) 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xbitx" alt="0xbitx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/0xbit1" target="blank"><img src="https://img.shields.io/twitter/follow/0xbit1?logo=twitter&style=for-the-badge" alt="0xbit1" /></a> </p>
 
-- 🔭 I’m currently working on **win11 exploit**
 
-- 🌱 I’m currently learning **iot exploitation**
+### YOUTUBE Videos
 
-- 👯 I’m looking to collaborate on **my friends**
+<!-- YOUTUBE:START -->
+- [HACKING RADIO](https://www.youtube.com/watch?v=HEN9XuCs1cU)
+- [LOG4J EXPLOIT](https://www.youtube.com/watch?v=3EGT-TDmGmE&t=32s)
+- [PASSWORD CRACKING USING HASHCAT](https://www.youtube.com/watch?v=E4D3WwSJne0)
+- [DEAUTHER](https://www.youtube.com/watch?v=Set6ko6IEeY&t=3s)
+- [PHISHING IN PISO WIFI](https://www.youtube.com/watch?v=2oazcgd1zGs)
+<!-- YOUTUBE:END -->
 
-- 🤝 I’m looking for help with **someone**
 
-- 👨‍💻 All of my projects are available at [github](github)
+### :dizzy: Connect on Networks
 
-- 📝 I regularly write articles on [forum](darkroom-forum)
+<div align="center">
+  <a href="https://twitter.com/0xbit1/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
+  </a>&ensp;
+  
+  <a href="https://www.dev.to/milindmishra">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" target="_blank"/>
+  </a>&ensp;
 
-- 💬 Ask me about **real name of GOD**
+  <a href="https://www.facebook.com/blank">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" target="_blank"/>
+  </a>&ensp;
 
-- 📫 How to reach me **0xbit25125@gmail.com**
+  <a href="https://resume.github.io/?0xbitx">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" target="_blank"/>
+  </a>&ensp;
+  
+  <a href="https://www.instagram.com/that_beautifuldream/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
+  </a>&ensp;
+  
+  <a href="https://www.youtube.com/channel/UCVrDl5VoN_ZLN74ueHe2iPA">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
+  </a>&ensp;
 
-- 📄 Know about my experiences [10 years linux experience](unknown)
+</div>
 
-- ⚡ Fun fact **i think im handsome**
+## GitHub Stats
 
-- 🙏 YHWH
+<div align="center">
+  <a href="https://milind.bio.link/" >
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbitx&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=0xbitx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://milind.bio.link/" >
+    <img src = "http://github-readme-streak-stats.herokuapp.com?user=thatbeautifuldream&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xbit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xbit1" height="30" width="40" /></a>
-</p>
+![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xbitx&show_icons=true&locale=en&layout=compact" alt="0xbitx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xbitx&show_icons=true&locale=en" alt="0xbitx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xbitx&" alt="0xbitx" /></p>
