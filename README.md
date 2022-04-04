@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey%2C+nice+to+see+you!;I'm+0xbit+from+philippines+)](http://in.milind.live)
-
+> I'm a Filipino Iot hacker from Philippines.
+> 
 - 🔭 I'm currently working on [Dedsec hacking tool and Group project]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -12,13 +13,9 @@
 :--- | :---
 | **Bug Bounty** | ![Bugcrowd](https://img.shields.io/static/v1?style=for-the-badge&message=Bugcrowd&color=F26822&logo=Bugcrowd&logoColor=FFFFFF&label=) ![HackerOne](https://img.shields.io/static/v1?style=for-the-badge&message=HackerOne&color=494649&logo=HackerOne&logoColor=FFFFFF&label=) |
 
-### :octocat: Open Source
+📫 Connect with me:
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/0xbitx) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/0xbitx) 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xbitx" alt="0xbitx" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/0xbit1" target="blank"><img src="https://img.shields.io/twitter/follow/0xbit1?logo=twitter&style=for-the-badge" alt="0xbit1" /></a> </p>
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/0xbitx/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xbit1) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xbitx/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCVrDl5VoN_ZLN74ueHe2iPA) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.t/0xbitx) 
 
 
 ### YOUTUBE Videos
@@ -32,50 +29,35 @@
 <!-- YOUTUBE:END -->
 
 
-### :dizzy: Connect on Networks
-
-<div align="center">
-  <a href="https://twitter.com/0xbit1/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
-  </a>&ensp;
-  
-  <a href="https://www.dev.to/milindmishra">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" target="_blank"/>
-  </a>&ensp;
-
-  <a href="https://www.facebook.com/blank">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" target="_blank"/>
-  </a>&ensp;
-
-  <a href="https://resume.github.io/?0xbitx">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" target="_blank"/>
-  </a>&ensp;
-  
-  <a href="https://www.instagram.com/that_beautifuldream/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
-  </a>&ensp;
-  
-  <a href="https://www.youtube.com/channel/UCVrDl5VoN_ZLN74ueHe2iPA">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
-  </a>&ensp;
-
-</div>
-
 ## GitHub Stats
+<!--
+<a href="https://github.com/0xbitx/google-it-support">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xbitx&repo=google-it-support&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a>
+<a href="https://github.com/0xbitx/google-it-automation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xbitx&repo=google-it-automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a><br>-->
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=0xbitx&show_icons=true&theme=radical)
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=0xbitx&show_icons=true&theme=radical)
 
-<div align="center">
-  <a href="https://milind.bio.link/" >
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbitx&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-    <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=0xbitx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://milind.bio.link/" >
-    <img src = "http://github-readme-streak-stats.herokuapp.com?user=thatbeautifuldream&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
-  </a>
-</div>
 
 ![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{0xbitx}/count.svg" /></p> 
+<br></div>
+<p align="center">
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /></p>
+
+<div align="center"><br><p align="centre"><b> Here is a random joke that'll mark your day!</b></p> 
+ 
+ ![Jokes Card](https://readme-jokes.vercel.app/api)<details>
+ 
+ <summary align="center"> </samp></summary>
+ <p align ="centre"> Refresh page to load New joke</p>
+ </details><br>
+
+  :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/0xbitx)! :v: :heart: 💬
+ </div>
 
