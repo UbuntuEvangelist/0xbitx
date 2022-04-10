@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey%2C+nice+to+see+you!;I'm+0xbit+from+philippines+)](http://in.milind.live)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=+C:\User\0xbit>+whoami_;I'm+0xbit+from+philippines+)](http://in.milind.live)
 > I'm a Filipino Iot hacker from Philippines.
-> 
+
 - 🔭 I'm currently working on [Dedsec hacking tool and Group project]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
