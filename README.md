@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=+C:\User\0xbit>+whoami_;I'm+0xbit+from+philippines+)](http://in.milind.live)
 > I'm a Filipino Iot hacker from Philippines.
 
-- 🔭 I'm currently working on [Dedsec hacking tool and Group project]
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm currently working on [Dedsec Group Hacking tool and Community project]
+- 🌱 I’m currently learning everything  
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: WALA LANG
+- 🥅 2022 Goals: Make more Dedsec Hacking tool projects
+- ⚡ Fun fact: Give a man a mask and he will tell you the truth
 - 🙏 YHWH
 
 ### <img src="https://www.transparentpng.com/thumb/anonymous-mask/guy-fawkes-mask-pictures-10.png" width="60px"> Pentesting Platforms
@@ -37,8 +37,8 @@
 <a href="https://github.com/0xbitx/google-it-automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xbitx&repo=google-it-automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
 </a><br>-->
-![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=0xbitx&show_icons=true&theme=radical)
-![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=0xbitx&show_icons=true&theme=radical)
+![oxbit's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=0xbitx&show_icons=true&theme=radical)
+![oxbit's Github Stats](https://github-readme-stats.vercel.app/api?username=0xbitx&show_icons=true&theme=radical)
 
 
 ![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
