@@ -28,36 +28,10 @@
 - [PHISHING IN PISO WIFI](https://www.youtube.com/watch?v=2oazcgd1zGs)
 <!-- YOUTUBE:END -->
 
-
-## GitHub Stats
-<!--
-<a href="https://github.com/0xbitx/google-it-support">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xbitx&repo=google-it-support&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
-</a>
-<a href="https://github.com/0xbitx/google-it-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xbitx&repo=google-it-automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
-</a><br>-->
-![oxbit's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=0xbitx&show_icons=true&theme=radical)
-![oxbit's Github Stats](https://github-readme-stats.vercel.app/api?username=0xbitx&show_icons=true&theme=radical)
-
-
 ![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{0xbitx}/count.svg" /></p> 
-<br></div>
-<p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /></p>
-
-<div align="center"><br><p align="centre"><b> Here is a random joke that'll mark your day!</b></p> 
- 
- ![Jokes Card](https://readme-jokes.vercel.app/api)<details>
- 
- <summary align="center"> </samp></summary>
- <p align ="centre"> Refresh page to load New joke</p>
- </details><br>
-
-  :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/0xbitx)! :v: :heart: 💬
- </div>
-
+<a
+href="http://www.github.com/0xbitx"><img src="https://github-readme-stats.vercel.app/api?username=0xbitx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="0xbitx's GitHub stats" /></a><a
+                  href="http://www.github.com/0xbitx"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=0xbitx&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                  href="http://www.github.com/0xbitx"><img src="https://activity-graph.herokuapp.com/graph?username=0xbitx&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/0xbitx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbitx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
