@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=+C:\User\0xbit>+whoami_;I'm+0xbit+from+philippines+)](http://in.milind.live)
-> I'm a Filipino Iot hacker from Philippines.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=+root@cli:~# whoami_;I'm+from+Bangladesh+)](http://in.milind.live)
+> I'm From Bangladesh | Anything Goes Linux.
 
-- 🔭 I'm currently working on [Dedsec Group Hacking tool and Community project]
+- 🔭 I'm currently working only for Linux
 - 🌱 I’m currently learning everything  
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Make more Dedsec Hacking tool projects
+- 🥅 2022 Goals: Make more projects
 - ⚡ Fun fact: Give a man a mask and he will tell you the truth
-- 🙏 YHWH
+- 🙏 As-salamualaykum
 
 ### <img src="https://www.transparentpng.com/thumb/anonymous-mask/guy-fawkes-mask-pictures-10.png" width="60px"> Pentesting Platforms
 | **CTF Platforms** | ![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=) ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
