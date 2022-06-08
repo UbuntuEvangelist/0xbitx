@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=+root@cli>+whoami_;I'm+from+Bangladesh+)](http://in.milind.live)
-> I'm From Bangladesh | Anything Goes Linux.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=+root@cli>+whoami_;I'm+Masum+from+Bangladesh+)](http://in.milind.live)
+> Anything Goes Linux.
 
 - 🔭 I'm currently working only for Linux
 - 🌱 I’m currently learning everything  
